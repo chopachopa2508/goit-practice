@@ -1,0 +1,14 @@
+* {
+   box-sizing: border-box;
+}
+
+.child {
+   width: 100px;
+   height: 100px;
+   color: black;
+   background-color: chartreuse;
+   padding: 10px;
+   border: 2px solid red;
+   margin: 10px;
+   box-sizing: border-box;
+}
